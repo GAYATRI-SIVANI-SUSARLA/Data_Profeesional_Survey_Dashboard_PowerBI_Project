@@ -42,15 +42,28 @@ Please remove all the null columns which are not necessary for the analysis.
 ### Analyzed Insights
 1. Countries from where the survey taken
 2. Average salary of professionals by their job title
-3. Total number of professionals who took the survey: **Count** - 630
-4. Average age of professionals who took the survey: 29.87
+3. Total number of professionals who took the survey from various countries: **Count** - 630
+4. Average age of professionals who took the survey: 29.87 showing youthful workflow
 5. Favourite programming language of data-related job professionals
 6. Rating of happiness with their work-life balance
 7. Rating the happiness of professionals with their salaries
 8. Difficulties in cracking their jobs
 
 ### Key findings 
-- 
+- Data Scientist salary is higher than all other data-related jobs followed by data engineer
+- My data analyst's like Python programming language
+- Only 6.98% of professionals felt very difficult, and 24.76% felt difficult to crack data- 
+  related jobs
+- More than 315 professionals out of 630 are happy with their work-life balance
+- Not even half the people who took the survey are happy with their salary.
+
+## Final Dashboard for the Data Professionals Survey
+![image](https://github.com/user-attachments/assets/e00d4129-ab11-4351-916b-2fecafa12882)
+
+
+
+
+
 
 
 
