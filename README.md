@@ -58,7 +58,8 @@ Please remove all the null columns which are not necessary for the analysis.
 - Not even half the people who took the survey are happy with their salary.
 
 ## Final Dashboard for the Data Professionals Survey
-![image](https://github.com/user-attachments/assets/1e123a95-b6e3-4718-9a96-0daad339aa65)
+![image](https://github.com/user-attachments/assets/fc71acb3-5b06-4568-a995-a21b04cf086a)
+
 
 
 
