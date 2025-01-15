@@ -51,7 +51,7 @@ Please remove all the null columns which are not necessary for the analysis.
 
 ### Key findings 
 - Data Scientist salary is higher than all other data-related jobs followed by data engineer
-- My data analyst's like Python programming language
+- The Data Analyst like the Python programming language
 - Only 6.98% of professionals felt very difficult, and 24.76% felt difficult to crack data- 
   related jobs
 - More than 315 professionals out of 630 are happy with their work-life balance
