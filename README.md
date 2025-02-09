@@ -1,7 +1,7 @@
 # 📊 Power BI Projects Repository
 ![image](https://github.com/user-attachments/assets/d1d5ff0b-1bfb-412e-a282-dfda28f450a4)
 
-## Overview
+## 🤷‍♀️ Overview
 Welcome to my **Power BI Projects repository**, This space is dedicated to showcasing my work in **Data visualization** using Power BI. My goal is to transform raw data into insightful and interactive dashboards that help in decision-making, analytics and predictions.
 
 ## 🔍 About This Repository
@@ -21,7 +21,7 @@ Each project is organized into its own folder with:
 - KPI & Performance Metrics Visualization
 
 ## 🚀 Featured Projects
-1. **Data Professional Survey** - (Data Professional Survey Dashboard)[https://github.com/GAYATRI-SIVANI-SUSARLA/PowerBI_Projects/tree/main/Data_Professional_Survey]
+1. **Data Professional Survey** - [Dashboard Project](https://github.com/GAYATRI-SIVANI-SUSARLA/PowerBI_Projects/tree/main/Data_Professional_Survey)
 
 
 ## Installation
@@ -32,7 +32,7 @@ https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads
 
 ## 📬 Let's Connect!
 If you have any suggestions, feedback, or collaboration ideas, feel free to reach out:
-GitHub: (GS Github)[https://github.com/GAYATRI-SIVANI-SUSARLA]
+GitHub: [GS Github](https://github.com/GAYATRI-SIVANI-SUSARLA)
 
 
 
